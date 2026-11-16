@@ -1,0 +1,26 @@
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IntelliJ y Eclipse
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Configuración local
+.env
+.env.*
+!.env.example
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
